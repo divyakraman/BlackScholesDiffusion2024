@@ -1,4 +1,4 @@
-Paper: [**Prompt Mixing in Diffusion Models using the Black Scholes Algorithm**](https://arxiv.org/abs/2405.13685) (arXiv May 2024)
+Paper: [**Financial Models in Geneative Art: Black-Scholes-Inspired Concept Blending in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2405.13685) (arXiv May 2024)
 
 Please cite our paper if you find it useful. <br>
 
@@ -14,10 +14,6 @@ Please cite our paper if you find it useful. <br>
 <p align="center">
 <img src="main1.jpg" width="720">
 </p>
-
-### Using the code 
-
-Coming soon 
 
 ### Dependencies
 
